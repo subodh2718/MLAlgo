@@ -1,0 +1,1 @@
+This repository serves as a comprehensive guide to various Machine Learning (ML) algorithms. It is structured to provide clear, organized information on different categories of ML algorithms, their implementations, and use cases.
